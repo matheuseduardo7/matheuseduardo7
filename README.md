@@ -1,16 +1,15 @@
-### Hi there 👋
+### bem vindo ao meu perfil. :atom:
 
-<!--
-**matheuseduardo7/matheuseduardo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Matheus Eduardo Mendes Afonso'.
 
-Here are some ideas to get you started:
+-estou estudando na plataforma alura.
+-estou me desenvolvendo nas limguagens java script html e css.
+-utilizo esse espaço para  minha organizaçao e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+voce pode entrar em contato comigo 📫
+
+
+matheus.mendes.afonso@escola.pr.gov.br
+
+![](https://media.tenor.com/xr-HJ_EtdggAAAAC/cr7eu-sou-melhor.gif)
+![](https://media.tenor.com/nfZi0s3ANcMAAAAC/soccer-soccer4life.gif)
